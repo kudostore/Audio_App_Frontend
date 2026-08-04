@@ -91,7 +91,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ── Constants ────────────────────────────────────────────
-API_URL = "https://audioapp-production.up.railway.app"
+API_URL = "https://web-production-79335.up.railway.app"
 
 PUNCTUATION_LABELS = {
     '.':  'Period ( . )',
